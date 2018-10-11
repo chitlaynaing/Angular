@@ -1,0 +1,10 @@
+/Users/codefinder/Angular/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.deps.json
+/Users/codefinder/Angular/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.json
+/Users/codefinder/Angular/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.runtimeconfig.dev.json
+/Users/codefinder/Angular/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/codefinder/Angular/DatingApp.API/bin/Debug/netcoreapp2.0/DatingApp.API.pdb
+/Users/codefinder/Angular/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/codefinder/Angular/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfoInputs.cache
+/Users/codefinder/Angular/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.AssemblyInfo.cs
+/Users/codefinder/Angular/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.dll
+/Users/codefinder/Angular/DatingApp.API/obj/Debug/netcoreapp2.0/DatingApp.API.pdb
